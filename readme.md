@@ -77,6 +77,8 @@ SELECT * FROM customers;
    * Select `customers` table only.
 5. Confirm and create.
 
+6. Go to **Amazon Redshift > `Customer` Database > Zero-ETL Integrations**. - `Seelct Create Database Popup`
+
 Wait \~5–10 minutes for the initial sync to complete.
 
 ### Query Data in Redshift
